@@ -1,7 +1,3 @@
-c:\daemon\chia.exe stop all -d
-c:\daemon\chia.exe init
-c:\daemon\chia.exe init -c c:\ca
-c:\daemon\chia.exe configure --set-farmer-peer
-c:\daemon\chia.exe plots add -d M:\
-start c:\daemon\chia.exe start harvester -r
-pause
+2021-01-01T23:36:00+08:00
+随机数:32296
+提交次数:1
